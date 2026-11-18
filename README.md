@@ -2,7 +2,7 @@
 
 Beratungstool für Mitarbeiter: lagernde Brettspiele nach Spielerzahl, kooperativ, solo, Sprache und mehr filtern.
 
-**Live-Link:** https://electronicfallout.github.io/spieleberater/
+**Live-Link:** https://electronicfallout.github.io/Spieleberater/
 
 Am Handy: Link öffnen, dann „Zum Home-Bildschirm“ (iPhone: Teilen-Menü, Android: Drei-Punkte-Menü). Danach startet das Tool wie eine App.
 
