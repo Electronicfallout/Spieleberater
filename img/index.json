@@ -1,0 +1,997 @@
+{
+ "1880-china": {
+  "q": "1880: China",
+  "product": "1521",
+  "match": "1880: china"
+ },
+ "5-towers-de": {
+  "q": "5 Towers - DE",
+  "product": "2785",
+  "match": "5 towers - de"
+ },
+ "7-wonders-duel": {
+  "q": "7 WONDERS DUEL",
+  "product": "113",
+  "match": "7 wonders duel"
+ },
+ "7-wonders-duel-pantheon": {
+  "q": "7 WONDERS DUEL PANTHEON",
+  "product": "332",
+  "match": "7 wonders duel pantheon"
+ },
+ "7-wonders-leader": {
+  "q": "7 WONDERS - LEADER",
+  "product": "934",
+  "match": "7 wonders - leader"
+ },
+ "7-wonders-neues-design": {
+  "q": "7 WONDERS NEUES DESIGN",
+  "product": "259",
+  "match": "7 wonders neues design"
+ },
+ "abgrundtief-de": {
+  "q": "Abgrundtief - DE",
+  "product": "1091",
+  "match": "abgrundtief - de"
+ },
+ "abgrundtief-namenloses-grauen-erweiterung": {
+  "q": "Abgrundtief - Namenloses Grauen Erweiterung",
+  "product": "2784",
+  "match": "abgrundtief - namenloses grauen erweiterung"
+ },
+ "arche-nova-wasserwelten-erweiterung-de": {
+  "q": "Arche Nova: Wasserwelten Erweiterung - DE",
+  "product": "2481",
+  "match": "arche nova: wasserwelten erweiterung - de"
+ },
+ "arkham-horror-3-edition-grundspiel": {
+  "q": "ARKHAM HORROR 3. Edition Grundspiel",
+  "product": "434",
+  "match": "arkham horror 3. edition grundspiel"
+ },
+ "arkham-horror-lcg-grundspiel-2026-de": {
+  "q": "Arkham Horror: LCG Grundspiel (2026) - DE",
+  "product": "5258",
+  "match": "arkham horror: lcg grundspiel (2026) - de"
+ },
+ "arschlochkind-de": {
+  "q": "ARSCHLOCHKIND - DE",
+  "product": "723",
+  "match": "arschlochkind - de"
+ },
+ "auf-den-wegen-von-darwin": {
+  "q": "Auf den Wegen von Darwin",
+  "product": "2221",
+  "match": "auf den wegen von darwin"
+ },
+ "azul-duel-de": {
+  "q": "Azul Duel - DE",
+  "product": "4053",
+  "match": "azul duel - de"
+ },
+ "azul-mini": {
+  "q": "Azul Mini",
+  "product": "2333",
+  "match": "azul mini"
+ },
+ "bang-the-dice-game-de": {
+  "q": "Bang! The Dice Game - DE",
+  "product": "244",
+  "match": "bang! the dice game - de"
+ },
+ "beer-bread-de": {
+  "q": "Beer & Bread DE",
+  "product": "1697",
+  "match": "beer & bread de"
+ },
+ "buzzed": {
+  "q": "BUZZED",
+  "product": "1153",
+  "match": "buzzed"
+ },
+ "beschwipst-de": {
+  "q": "Beschwipst - DE",
+  "product": "5402",
+  "match": "beschwipst - de"
+ },
+ "canvas-de": {
+  "q": "Canvas - DE",
+  "product": "1267",
+  "match": "canvas - de"
+ },
+ "canvas-reflexionen": {
+  "q": "Canvas - Reflexionen",
+  "product": "1524",
+  "match": "canvas - reflexionen"
+ },
+ "caper-europe-de": {
+  "q": "Caper Europe - DE",
+  "product": "4481",
+  "match": "caper europe - de"
+ },
+ "captain-flip-de": {
+  "q": "Captain Flip - DE",
+  "product": "3628",
+  "match": "captain flip - de"
+ },
+ "carcassonne-v3-0-de": {
+  "q": "Carcassonne V3.0 - DE",
+  "product": "3963",
+  "match": "carcassonne v3.0 - de"
+ },
+ "carcassonne-25-jahre-jubilaumsedition-de": {
+  "q": "Carcassonne 25 Jahre Jubiläumsedition - DE",
+  "product": "48968",
+  "match": "carcassonne 25 jahre jubiläumsedition - de"
+ },
+ "castle-combo-de": {
+  "q": "Castle Combo - DE",
+  "product": "4567",
+  "match": "castle combo - de"
+ },
+ "cat-in-the-box-de": {
+  "q": "Cat in the Box - DE",
+  "product": "2451",
+  "match": "cat in the box - de"
+ },
+ "citadels-duel-de": {
+  "q": "Citadels Duel - DE",
+  "product": "48973",
+  "match": "citadels duel - de"
+ },
+ "codenames-de": {
+  "q": "Codenames - DE",
+  "product": "403",
+  "match": "codenames - de"
+ },
+ "codenames-pictures-de": {
+  "q": "Codenames: Pictures - DE",
+  "product": "1440",
+  "match": "codenames: pictures - de"
+ },
+ "compile-gold-edition-de": {
+  "q": "Compile (Gold Edition) - DE",
+  "product": "47147",
+  "match": "compile (gold edition) - de"
+ },
+ "coup-de": {
+  "q": "COUP - DE",
+  "product": "968",
+  "match": "coup - de"
+ },
+ "der-herr-der-ringe-die-gefahrten-das-stichspiel": {
+  "q": "DER HERR DER RINGE: Die Gefährten - Das Stichspiel",
+  "product": "4469",
+  "match": "der herr der ringe: die gefährten - das stichspiel"
+ },
+ "der-kartograph": {
+  "q": "DER KARTOGRAPH",
+  "product": "595",
+  "match": "der kartograph"
+ },
+ "die-kartographin": {
+  "q": "DIE KARTOGRAPHIN",
+  "product": "1135",
+  "match": "die kartographin"
+ },
+ "die-crew-jagd-um-die-welt-de": {
+  "q": "Die Crew: Jagd um die Welt - DE",
+  "product": "47507",
+  "match": "die crew: jagd um die welt - de"
+ },
+ "die-verlorenen-ruinen-von-arnak-verschlungene-pfade-erweiterung": {
+  "q": "Die verlorenen Ruinen von Arnak: Verschlungene Pfade Erweiterung",
+  "product": "46331",
+  "match": "die verlorenen ruinen von arnak: verschlungene pfade erweiterung"
+ },
+ "die-wei-e-burg": {
+  "q": "Die weiße Burg",
+  "product": "2517",
+  "match": "die weiße burg"
+ },
+ "die-werwolfe-vom-dusterwald": {
+  "q": "Die Werwölfe vom Düsterwald",
+  "product": "275",
+  "match": "die werwölfe vom düsterwald"
+ },
+ "disney-villainous-gro-er-und-gemeiner-erw-5": {
+  "q": "Disney Villainous - Größer und Gemeiner - Erw. 5",
+  "product": "2157",
+  "match": "disney villainous - größer und gemeiner - erw. 5"
+ },
+ "dixit-disney-edition": {
+  "q": "Dixit: Disney Edition",
+  "product": "2184",
+  "match": "dixit: disney edition"
+ },
+ "dobble-de": {
+  "q": "DOBBLE - DE",
+  "product": "402",
+  "match": "dobble - de"
+ },
+ "dorfromantik-fachhandel-exklusiv-inkl-mini-erweiterungen-muhle-wetterau-de": {
+  "q": "Dorfromantik *Fachhandel-exklusiv* inkl. Mini-Erweiterungen Mühle+Wetterau - DE",
+  "product": "4056",
+  "match": "dorfromantik *fachhandel-exklusiv* inkl. mini-erweiterungen mühle+wetterau - de"
+ },
+ "dorfromantik-das-duell": {
+  "q": "Dorfromantik - Das Duell",
+  "product": "2502",
+  "match": "dorfromantik - das duell"
+ },
+ "dorfromantik-leichtes-gepack": {
+  "q": "Dorfromantik - Leichtes Gepäck",
+  "product": "5296",
+  "match": "dorfromantik - leichtes gepäck"
+ },
+ "duell-um-cardia-de": {
+  "q": "Duell um Cardia - DE",
+  "product": "4859",
+  "match": "duell um cardia - de"
+ },
+ "dune-imperium-uprising-de": {
+  "q": "Dune: Imperium - Uprising- DE",
+  "product": "2439",
+  "match": "dune: imperium - uprising- de"
+ },
+ "endangered-de": {
+  "q": "Endangered - DE",
+  "product": "2948",
+  "match": "endangered - de"
+ },
+ "endeavor-die-tiefsee-de": {
+  "q": "Endeavor: Die Tiefsee - DE",
+  "product": "5005",
+  "match": "endeavor: die tiefsee - de"
+ },
+ "endless-winter-de": {
+  "q": "Endless Winter - DE",
+  "product": "1660",
+  "match": "endless winter - de"
+ },
+ "equinox-green-box": {
+  "q": "EQUINOX GREEN BOX",
+  "product": "1080",
+  "match": "equinox green box"
+ },
+ "everdell-duo-de": {
+  "q": "Everdell Duo - DE",
+  "product": "4890",
+  "match": "everdell duo - de"
+ },
+ "exit-das-spiel": {
+  "q": "EXIT",
+  "product": "429",
+  "match": "exit - das spiel das geheime labor"
+ },
+ "exploding-kittens-de": {
+  "q": "Exploding Kittens - DE",
+  "product": "85",
+  "match": "exploding kittens - de"
+ },
+ "fantastische-reiche": {
+  "q": "FANTASTISCHE REICHE",
+  "product": "1087",
+  "match": "fantastische reiche"
+ },
+ "flamecraft-de": {
+  "q": "Flamecraft - DE",
+  "product": "1818",
+  "match": "flamecraft - de"
+ },
+ "flugelschlag-de": {
+  "q": "Flügelschlag - DE",
+  "product": "456",
+  "match": "flügelschlag - de"
+ },
+ "flossenschlag-de": {
+  "q": "Flossenschlag - DE",
+  "product": "5040",
+  "match": "flossenschlag - de"
+ },
+ "fortune-and-glory-revised-edition-en": {
+  "q": "Fortune and Glory Revised Edition - EN",
+  "product": "47522",
+  "match": "fortune and glory revised edition - en"
+ },
+ "hallertau": {
+  "q": "HALLERTAU",
+  "product": "923",
+  "match": "hallertau"
+ },
+ "happy-little-dinosaurs": {
+  "q": "Happy Little Dinosaurs",
+  "product": "1960",
+  "match": "happy little dinosaurs"
+ },
+ "harmonies-de": {
+  "q": "Harmonies - DE",
+  "product": "49144",
+  "match": "harmonies - de"
+ },
+ "heat-de": {
+  "q": "Heat - DE",
+  "product": "2666",
+  "match": "heat - de"
+ },
+ "herr-der-ringe-das-schicksal-der-gemeinschaft-de": {
+  "q": "Herr der Ringe: Das Schicksal der Gemeinschaft - DE",
+  "product": "4892",
+  "match": "herr der ringe: das schicksal der gemeinschaft - de"
+ },
+ "hitster-das-musik-kartenspiel": {
+  "q": "Hitster Das Musik-Kartenspiel",
+  "product": "2238",
+  "match": "hitster das musik-kartenspiel"
+ },
+ "hive": {
+  "q": "HIVE",
+  "product": "177",
+  "match": "hive"
+ },
+ "imperial-miners-portal-games": {
+  "q": "Imperial Miners (Portal Games)",
+  "product": "2393",
+  "match": "imperial miners (portal games)"
+ },
+ "kampf-gegen-die-korinthenkacker": {
+  "q": "KAMPF GEGEN DIE KORINTHENKACKER",
+  "product": "411",
+  "match": "kampf gegen die korinthenkacker"
+ },
+ "khora-de": {
+  "q": "Khora - DE",
+  "product": "1610",
+  "match": "khora - de"
+ },
+ "king-of-tokyo-duell": {
+  "q": "King of Tokyo - Duell",
+  "product": "47528",
+  "match": "king of tokyo - duell"
+ },
+ "konigreich-legacy-feudale-welt-de": {
+  "q": "Königreich Legacy - Feudale Welt - DE",
+  "product": "45942",
+  "match": "königreich legacy - feudale welt - de"
+ },
+ "magic-maze-deutsche-ausgabe": {
+  "q": "MAGIC MAZE (DEUTSCHE AUSGABE)",
+  "product": "179",
+  "match": "magic maze (deutsche ausgabe)"
+ },
+ "mantis-de": {
+  "q": "Mantis - DE",
+  "product": "2098",
+  "match": "mantis - de"
+ },
+ "micromacro-crime-city-2-full-house": {
+  "q": "MicroMacro: CRIME CITY 2 FULL HOUSE",
+  "product": "1259",
+  "match": "micromacro: crime city 2 full house"
+ },
+ "match-of-the-century-de": {
+  "q": "Match of the Century - DE",
+  "product": "2521",
+  "match": "match of the century - de"
+ },
+ "mischwald-de": {
+  "q": "Mischwald - DE",
+  "product": "2397",
+  "match": "mischwald - de"
+ },
+ "mlem-die-astrokatzen": {
+  "q": "MLEM: Die Astrokatzen",
+  "product": "2620",
+  "match": "mlem: die astrokatzen"
+ },
+ "munchkin-shadowrun": {
+  "q": "Munchkin Shadowrun",
+  "product": "4260",
+  "match": "munchkin shadowrun"
+ },
+ "mycelia-de": {
+  "q": "Mycelia - DE",
+  "product": "2414",
+  "match": "mycelia - de"
+ },
+ "mysterium-de": {
+  "q": "Mysterium - DE",
+  "product": "104",
+  "match": "mysterium - de"
+ },
+ "next-station-london-de": {
+  "q": "Next Station: London - DE",
+  "product": "2569",
+  "match": "next station: london - de"
+ },
+ "orichalkum": {
+  "q": "Orichalkum",
+  "product": "2031",
+  "match": "orichalkum"
+ },
+ "pagan-schicksal-von-roanoke-de": {
+  "q": "Pagan: Schicksal von Roanoke - DE",
+  "product": "1787",
+  "match": "pagan: schicksal von roanoke - de"
+ },
+ "paleo-de": {
+  "q": "Paleo - DE",
+  "product": "928",
+  "match": "paleo - de"
+ },
+ "parks-2-edition-de": {
+  "q": "Parks 2. Edition - DE",
+  "product": "5167",
+  "match": "parks 2. edition - de"
+ },
+ "path-of-civilization": {
+  "q": "Path of Civilization",
+  "product": "2401",
+  "match": "path of civilization"
+ },
+ "pendulum": {
+  "q": "Pendulum",
+  "product": "1601",
+  "match": "pendulum"
+ },
+ "planet-unknown-de": {
+  "q": "PLANET UNKNOWN - DE",
+  "product": "2237",
+  "match": "planet unknown - de"
+ },
+ "polynesia-de": {
+  "q": "POLYNESIA - DE",
+  "product": "1274",
+  "match": "polynesia - de"
+ },
+ "power-hungry-pets-de": {
+  "q": "Power Hungry Pets - DE",
+  "product": "2815",
+  "match": "power hungry pets - de"
+ },
+ "rebirth-aufbruch-in-eine-neue-zeit": {
+  "q": "Rebirth: Aufbruch in eine neue Zeit",
+  "product": "47335",
+  "match": "rebirth: aufbruch in eine neue zeit"
+ },
+ "seti-auf-der-suche-nach-au-erirdischem-leben-de": {
+  "q": "SETI - Auf der Suche nach außerirdischem Leben (DE)",
+  "product": "3880",
+  "match": "seti - auf der suche nachaußerirdischem leben (de)"
+ },
+ "sherlock-letzter-aufruf": {
+  "q": "SHERLOCK LETZTER AUFRUF",
+  "product": "686",
+  "match": "sherlock letzter aufruf"
+ },
+ "similo-harry-potter": {
+  "q": "Similo - Harry Potter",
+  "product": "2547",
+  "match": "similo - harry potter"
+ },
+ "star-wars-the-deckbuilding-game-de": {
+  "q": "Star Wars: The Deckbuilding Game - DE",
+  "product": "2009",
+  "match": "star wars: the deckbuilding game - de"
+ },
+ "landmarks-de": {
+  "q": "Landmarks - DE",
+  "product": "4452",
+  "match": "landmarks - de"
+ },
+ "leben-in-reterra-de": {
+  "q": "Leben in Reterra - DE",
+  "product": "3057",
+  "match": "leben in reterra - de"
+ },
+ "living-forest-nominiert-kennerspiel2022": {
+  "q": "Living Forest Nominiert Kennerspiel2022",
+  "product": "1526",
+  "match": "living forest nominiert kennerspiel2022"
+ },
+ "lords-of-waterdeep-de": {
+  "q": "Lords of Waterdeep - DE",
+  "product": "46928",
+  "match": "lords of waterdeep - de"
+ },
+ "love-letter-de": {
+  "q": "Love Letter - DE",
+  "product": "4350",
+  "match": "love letter - de"
+ },
+ "root-uhrwerk-erweiterung-2-de": {
+  "q": "Root - Uhrwerk-Erweiterung 2 - DE",
+  "product": "2605",
+  "match": "root - uhrwerk-erweiterung 2 - de"
+ },
+ "sankt-petersburg-de": {
+  "q": "Sankt Petersburg - DE",
+  "product": "48982",
+  "match": "sankt petersburg - de"
+ },
+ "scout-deutsch": {
+  "q": "Scout (deutsch)",
+  "product": "1502",
+  "match": "scout (deutsch)"
+ },
+ "sky-team-de": {
+  "q": "Sky Team - DE",
+  "product": "2663",
+  "match": "sky team - de"
+ },
+ "schlafende-gotter-gezeiten-des-untergangs": {
+  "q": "Schlafende Götter: Gezeiten des Untergangs",
+  "product": "1921",
+  "match": "schlafende götter: gezeiten des untergangs"
+ },
+ "spicy-de": {
+  "q": "Spicy - DE",
+  "product": "973",
+  "match": "spicy - de"
+ },
+ "spirit-island-schatzkiste": {
+  "q": "Spirit Island: Schatzkiste",
+  "product": "2533",
+  "match": "spirit island: schatzkiste"
+ },
+ "star-clicker": {
+  "q": "STAR CLICKER",
+  "product": "105",
+  "match": "star clicker"
+ },
+ "starship-captains": {
+  "q": "Starship-Captains",
+  "product": "1556",
+  "match": "starship-captains"
+ },
+ "star-wars-outer-rim": {
+  "q": "STAR WARS: OUTER RIM",
+  "product": "537",
+  "match": "star wars: outer rim"
+ },
+ "story-box-abenteuer": {
+  "q": "Story Box Abenteuer",
+  "product": "3748",
+  "match": "story box abenteuer"
+ },
+ "sushi-go": {
+  "q": "SUSHI GO!",
+  "product": "175",
+  "match": "sushi go!"
+ },
+ "tangram-city": {
+  "q": "Tangram City",
+  "product": "3976",
+  "match": "tangram city"
+ },
+ "terraforming-mars-de": {
+  "q": "Terraforming Mars - DE",
+  "product": "1804",
+  "match": "terraforming mars - de"
+ },
+ "terra-pyramides-multilingual": {
+  "q": "Terra Pyramides - Multilingual",
+  "product": "2697",
+  "match": "terra pyramides - multilingual"
+ },
+ "the-game-natureline-international": {
+  "q": "The Game - Natureline (International)",
+  "product": "5176",
+  "match": "the game - natureline (international)"
+ },
+ "the-mind-soulmates": {
+  "q": "The Mind Soulmates",
+  "product": "1951",
+  "match": "the mind soulmates"
+ },
+ "the-vale-of-eternity-de": {
+  "q": "The Vale of Eternity - DE",
+  "product": "2854",
+  "match": "the vale of eternity - de"
+ },
+ "time-stories-revolution-ein-sommernachtstraum-de": {
+  "q": "TIME Stories Revolution: Ein Sommernachtstraum - DE",
+  "product": "927",
+  "match": "time stories revolution: ein sommernachtstraum - de"
+ },
+ "tiny-epic-cthulhu-de": {
+  "q": "Tiny Epic Cthulhu - DE",
+  "product": "4781",
+  "match": "tiny epic cthulhu - de"
+ },
+ "tortuga-2199": {
+  "q": "Tortuga 2199",
+  "product": "1805",
+  "match": "tortuga 2199"
+ },
+ "tower-up-de": {
+  "q": "Tower Up - DE",
+  "product": "3669",
+  "match": "tower up - de"
+ },
+ "trial-by-trolley": {
+  "q": "Trial by Trolley",
+  "product": "1512",
+  "match": "trial by trolley"
+ },
+ "turing-machine": {
+  "q": "Turing Machine",
+  "product": "2217",
+  "match": "turing machine"
+ },
+ "unlock": {
+  "q": "Unlock",
+  "product": "48932",
+  "match": "unlock! action story"
+ },
+ "uno-kartenspiel-klassiker": {
+  "q": "UNO KARTENSPIEL KLASSIKER",
+  "product": "183",
+  "match": "uno kartenspiel klassiker"
+ },
+ "uno-no-mercy": {
+  "q": "UNO - No Mercy",
+  "product": "2671",
+  "match": "uno - no mercy"
+ },
+ "unstable-unicorns-de": {
+  "q": "UNSTABLE UNICORNS - DE",
+  "product": "1171",
+  "match": "unstable unicorns - de"
+ },
+ "waterfall-park-de": {
+  "q": "Waterfall Park - DE",
+  "product": "2407",
+  "match": "waterfall park - de"
+ },
+ "wettlauf-nach-el-dorado": {
+  "q": "Wettlauf nach El Dorado",
+  "product": "2135",
+  "match": "wettlauf nach el dorado"
+ },
+ "wizard-de": {
+  "q": "WIZARD - DE",
+  "product": "93",
+  "match": "wizard - de"
+ },
+ "wordsmith-de": {
+  "q": "WORDSMITH - DE",
+  "product": "1040",
+  "match": "wordsmith - de"
+ },
+ "zombie-kittens-de": {
+  "q": "Zombie Kittens - DE",
+  "product": "2146",
+  "match": "zombie kittens - de"
+ },
+ "the-witcher-die-alte-welt-de": {
+  "q": "Witcher Die Alte Welt",
+  "product": "2329",
+  "match": "the witcher: die alte welt - de"
+ },
+ "2491-planetship": {
+  "q": "2491: Planetship",
+  "product": "1133",
+  "match": "2491: planetship"
+ },
+ "acht-ausgemacht": {
+  "q": "ACHT: ausgemacht",
+  "product": "2321",
+  "match": "acht: ausgemacht"
+ },
+ "aetherya": {
+  "q": "Aetherya",
+  "product": "1486",
+  "match": "aetherya"
+ },
+ "armata-strigoi-resurrection-erw": {
+  "q": "Armata Strigoi: Resurrection",
+  "product": "942",
+  "match": "armata strigoi: resurrection erweiterung"
+ },
+ "bella-vista": {
+  "q": "Bella Vista",
+  "product": "48966",
+  "match": "bella vista - de"
+ },
+ "boss-fighters-qr-dschungelfieber": {
+  "q": "Boss Fighters QR",
+  "product": "5315",
+  "match": "boss fighters qr"
+ },
+ "champions": {
+  "q": "Champions!",
+  "product": "2454",
+  "match": "champions!"
+ },
+ "command-of-nature": {
+  "q": "Command of Nature",
+  "product": "3630",
+  "match": "command of nature - de"
+ },
+ "cozy-stickerville": {
+  "q": "Cozy Stickerville",
+  "product": "47497",
+  "match": "cozy stickerville - de"
+ },
+ "critter-kitchen": {
+  "q": "Critter Kitchen",
+  "product": "46273",
+  "match": "critter kitchen - de"
+ },
+ "cyberpunk-legends-into-the-night": {
+  "q": "Cyberpunk Legends: Into the Night",
+  "product": "48977",
+  "match": "cyberpunk legends: into the night - de"
+ },
+ "deine-mutter-auf-tinder": {
+  "q": "Deine Mutter auf Tinder",
+  "product": "5398",
+  "match": "deine mutter auf tinder - de"
+ },
+ "der-herr-der-ringe-circle-of-conflict": {
+  "q": "Der Herr der Ringe: Circle of Conflict",
+  "product": "48978",
+  "match": "der herr der ringe: circle of conflict - de"
+ },
+ "der-herr-der-ringe-das-kartenspiel-die-gefahrten": {
+  "q": "Der Herr der Ringe: Das Kartenspiel – Die Gefährten",
+  "product": "45894",
+  "match": "der herr der ringe: das kartenspiel – die gefährten"
+ },
+ "die-stunde-der-maus": {
+  "q": "Die Stunde der Maus",
+  "product": "2415",
+  "match": "die stunde der maus"
+ },
+ "ding": {
+  "q": "DING!",
+  "product": "4498",
+  "match": "ding ! - de"
+ },
+ "drunk-stoned-or-stupid": {
+  "q": "Drunk, Stoned or Stupid",
+  "product": "1089",
+  "match": "drunk, stoned or stupid"
+ },
+ "dungeon-designer": {
+  "q": "Dungeon Designer",
+  "product": "3752",
+  "match": "dungeon designer - de"
+ },
+ "emerland": {
+  "q": "Emerland",
+  "product": "49002",
+  "match": "emerland - ein spiel in der welt von everdell - de"
+ },
+ "erwischt": {
+  "q": "Erwischt!",
+  "product": "1270",
+  "match": "erwischt! - de"
+ },
+ "exploding-bird": {
+  "q": "Exploding Bird",
+  "product": "4891",
+  "match": "exploding bird - de"
+ },
+ "fairy-perfume": {
+  "q": "Fairy Perfume",
+  "product": "48979",
+  "match": "fairy perfume - de"
+ },
+ "fertig-ich-habe": {
+  "q": "Fertig ich habe",
+  "product": "5098",
+  "match": "fertig ich habe - de"
+ },
+ "first-empires": {
+  "q": "First Empires",
+  "product": "1645",
+  "match": "first empires - de"
+ },
+ "ghost-writer": {
+  "q": "Ghost Writer",
+  "product": "2510",
+  "match": "ghost writer - de"
+ },
+ "got-ya": {
+  "q": "Got Ya!",
+  "product": "5404",
+  "match": "got ya! - de"
+ },
+ "gwent-balladenkarten": {
+  "q": "Gwent Balladenkarten",
+  "product": "4871",
+  "match": "gwent: legendäre balladenkarten helden: monster"
+ },
+ "happy-mochi": {
+  "q": "Happy Mochi",
+  "product": "4612",
+  "match": "happy mochi - de"
+ },
+ "heroes-of-barcadia": {
+  "q": "Heroes of Barcadia",
+  "product": "5441",
+  "match": "heroes of barcadia - de"
+ },
+ "herzlich-willkommen-zum-hieb-und-stichfest": {
+  "q": "Herzlich Willkommen zum Hieb- und Stichfest",
+  "product": "3327",
+  "match": "herzlich willkommen zum hieb- und stichfest - de"
+ },
+ "hot-room": {
+  "q": "Hot Room",
+  "product": "5405",
+  "match": "hot room - de"
+ },
+ "how-i-met-your-series": {
+  "q": "How I Met Your Series",
+  "product": "5416",
+  "match": "how i met your series - de"
+ },
+ "in-aller-ruhe": {
+  "q": "In aller Ruhe",
+  "product": "2789",
+  "match": "in aller ruhe"
+ },
+ "into-the-dungeon-brain-games": {
+  "q": "Into the Dungeon Brain Games",
+  "product": "47540",
+  "match": "into the dungeon brain games"
+ },
+ "kauri": {
+  "q": "Kauri",
+  "product": "4521",
+  "match": "kauri - de"
+ },
+ "kingdom-crossing": {
+  "q": "Kingdom Crossing",
+  "product": "46834",
+  "match": "kingdom crossing - de"
+ },
+ "king-of-tokyo-godzilla-en": {
+  "q": "King of Tokyo: Godzilla",
+  "product": "47527",
+  "match": "king of tokyo - godzilla - en"
+ },
+ "kuzooka": {
+  "q": "KuZOOka",
+  "product": "1824",
+  "match": "kuzooka"
+ },
+ "lacrimosa-en": {
+  "q": "Lacrimosa",
+  "product": "1864",
+  "match": "lacrimosa en"
+ },
+ "let-s-get-loud": {
+  "q": "Let's Get Loud!",
+  "product": "5417",
+  "match": "let's get loud!"
+ },
+ "lightning-train": {
+  "q": "Lightning Train",
+  "product": "48980",
+  "match": "lightning train - de"
+ },
+ "madels-mix": {
+  "q": "Mädels Mix",
+  "product": "5418",
+  "match": "mädels mix vol.1 - de"
+ },
+ "miezekatze": {
+  "q": "Miezekatze",
+  "product": "4496",
+  "match": "miezekatze - de"
+ },
+ "mind-me": {
+  "q": "Mind Me",
+  "product": "5400",
+  "match": "mind me - de"
+ },
+ "moesteiro": {
+  "q": "Moesteiro",
+  "product": "2348",
+  "match": "moesteiro"
+ },
+ "monkey-palace": {
+  "q": "Monkey Palace",
+  "product": "3261",
+  "match": "monkey palace - de"
+ },
+ "not-enough-mana-en-erw": {
+  "q": "Not Enough Mana",
+  "product": "2167",
+  "match": "not enough mana - en"
+ },
+ "omg": {
+  "q": "OMG",
+  "product": "1152",
+  "match": "omg"
+ },
+ "pan-s-island": {
+  "q": "Pan's Island",
+  "product": "2511",
+  "match": "pan's island - de"
+ },
+ "perfect-murder": {
+  "q": "Perfect Murder",
+  "product": "47541",
+  "match": "perfect murder - de"
+ },
+ "pilzfest": {
+  "q": "Pilzfest",
+  "product": "47087",
+  "match": "pilzfest - das strategiespiel im reich der pilze"
+ },
+ "planet-b": {
+  "q": "Planet B",
+  "product": "1690",
+  "match": "planet b - de"
+ },
+ "rip": {
+  "q": "RIP",
+  "product": "3970",
+  "match": "rip - de"
+ },
+ "sind-wir-schon-da": {
+  "q": "Sind wir schon da?",
+  "product": "5399",
+  "match": "sind wir schon da? - de"
+ },
+ "six-sojourns-en": {
+  "q": "Six Sojourns",
+  "product": "47524",
+  "match": "six sojourns - en"
+ },
+ "spirits-of-valenor": {
+  "q": "Spirits of Valenor",
+  "product": "49010",
+  "match": "spirits of valenor - de"
+ },
+ "tax-the-rich": {
+  "q": "Tax the Rich",
+  "product": "48928",
+  "match": "tax the rich - de"
+ },
+ "the-blah-blah-box": {
+  "q": "The Blah Blah Box",
+  "product": "5403",
+  "match": "the blah blah box - de"
+ },
+ "tiki-taka": {
+  "q": "Tiki Taka",
+  "product": "5419",
+  "match": "tiki taka - de"
+ },
+ "tisch-fur-zwei": {
+  "q": "Tisch für Zwei",
+  "product": "5401",
+  "match": "tisch für zwei - de"
+ },
+ "triqueta-2-edition": {
+  "q": "Triqueta",
+  "product": "3334",
+  "match": "triqueta 2te edition - de"
+ },
+ "waste-knights-outback-geschichten-erw": {
+  "q": "Waste Knights: Outback-Geschichten",
+  "product": "1829",
+  "match": "waste knights: outback-geschichten exp"
+ },
+ "what-do-you-meme": {
+  "q": "What do you Meme?",
+  "product": "1469",
+  "match": "what do you meme?"
+ },
+ "wintertod": {
+  "q": "Wintertod",
+  "product": "2431",
+  "match": "wintertod (d)"
+ },
+ "woodlands": {
+  "q": "Woodlands",
+  "product": "286",
+  "match": "woodlands"
+ }
+}
