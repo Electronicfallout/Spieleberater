@@ -993,5 +993,45 @@
   "q": "Woodlands",
   "product": "286",
   "match": "woodlands"
+ },
+ "5-minute-dungeon-der-fluch-des-overlords-erweiterung": {
+  "q": "Fluch des Overlords",
+  "product": "4777",
+  "match": "5-minute dungeon: der fluch des overlords [erweite"
+ },
+ "hero-realms-charakterpacks": {
+  "q": "HERO REALMS",
+  "product": "1844",
+  "match": "hero realms boss deck lich"
+ },
+ "horrible-couple-horrible-therapist": {
+  "q": "Horrible Couple",
+  "product": "46839",
+  "match": "horrible couple (extra horrible edition) - de"
+ },
+ "marvel-united-black-panther-erw": {
+  "q": "Black Panther",
+  "product": "1349",
+  "match": "marvel united - der aufstieg des blackpanther"
+ },
+ "mindbug-erweiterungen": {
+  "q": "Mindbug",
+  "product": "4645",
+  "match": "mindbug: 2vs2 tag team pack (de)"
+ },
+ "patterns-ein-mandala-spiel": {
+  "q": "Patterns",
+  "product": "2093",
+  "match": "patterns: ein mandala spiel"
+ },
+ "scythe-invasoren-aus-der-ferne-erw": {
+  "q": "INVASOREN",
+  "product": "268",
+  "match": "scythe - de invasoren aus der ferne"
+ },
+ "sea-salt-paper-extra-salt-erw": {
+  "q": "Extra Salt",
+  "product": "2562",
+  "match": "sea salt & paper"
  }
 }
