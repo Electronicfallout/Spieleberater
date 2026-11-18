@@ -28,6 +28,17 @@ assert marker in html, "LINKS-Marker nicht gefunden"
 baked = json.dumps(links, ensure_ascii=False).replace("</", "<\\/")
 html = html.replace(marker, f"const LINKS = {baked}; let DB = null;", 1)
 
+# 1b) Schachtelbilder (img/index.json, vom Workflow "Schachtelbilder laden" erzeugt)
+img_idx = pathlib.Path(__file__).resolve().parent.parent / "img" / "index.json"
+imgs = {}
+if img_idx.exists():
+    for k in json.loads(img_idx.read_text(encoding="utf-8")):
+        f = img_idx.parent / f"{k}.jpg"
+        if f.exists():
+            imgs[k] = f"img/{k}.jpg?v={hashlib.sha1(f.read_bytes()).hexdigest()[:8]}"
+if "const IMGS = {};" in html:
+    html = html.replace("const IMGS = {};", "const IMGS = " + json.dumps(imgs, ensure_ascii=False) + ";", 1)
+
 # 2) Hinweistext außerhalb von Claude
 old_note = "Speichern ist in dieser Ansicht nicht möglich (nicht angemeldet oder ohne Zugriff). Die Liste ist trotzdem nutzbar."
 if old_note in html:
@@ -121,4 +132,4 @@ self.addEventListener("fetch", e => {{
 """, encoding="utf-8")
 
 (out / ".nojekyll").write_text("")
-print("ok", len(links), "verknüpfte Links,", sum(1 for v in links.values() if v["profile"]), "Profile")
+print("ok", len(links), "verknüpfte Links,", sum(1 for v in links.values() if v["profile"]), "Profile,", len(imgs), "Bilder")
